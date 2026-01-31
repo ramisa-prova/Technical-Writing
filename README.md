@@ -1,1 +1,1 @@
-# Technical-Report-Writing
+# Technical-Writing
